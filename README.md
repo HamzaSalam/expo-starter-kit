@@ -1,4 +1,4 @@
-# 🚀 Expo Starter
+# 🚀 Expo Starter Kit
 
 > A clean, production-ready starter template for React Native and Expo with file-based routing, Tailwind CSS styling, TypeScript, ESLint, and Prettier.
 
@@ -31,17 +31,17 @@
 
 ```bash
 # Using npm
-npx create-expo-app my-app --template <your-github-username>/expo-starter
+npx create-expo-app my-app --template <your-github-username>/expo-starter-kit
 
 # Using bun
-bun create expo-app my-app --template <your-github-username>/expo-starter
+bun create expo-app my-app --template <your-github-username>/expo-starter-kit
 ```
 
 ### Option 2: Clone Directly
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/expo-starter.git my-app
+git clone https://github.com/<your-username>/expo-starter-kit.git my-app
 cd my-app
 
 # Install dependencies
@@ -70,7 +70,7 @@ npx expo start
 ## 📁 Project Structure
 
 ```text
-expo-starter/
+expo-starter-kit/
 ├── assets/                  # Icons, splash screen, and favicons
 │   ├── adaptive-icon.png
 │   ├── favicon.png

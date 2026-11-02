@@ -1,5 +1,5 @@
 {
-  "name": "expo-starter",
+  "name": "expo-starter-kit",
   "version": "1.0.0",
   "description": "A clean, modern starter template for Expo with Expo Router, NativeWind (Tailwind CSS), TypeScript, and ESLint.",
   "main": "expo-router/entry",

@@ -20,7 +20,7 @@ export default function IndexScreen() {
             </AppText>
           </View>
           <AppText size="heading" bold center>
-            Expo Starter
+            Expo Starter Kit
           </AppText>
           <AppText color="secondary" size="medium" center>
             Latest Expo SDK • Expo Router • NativeWind v4 • TypeScript
