@@ -1,0 +1,37 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# expo
+.expo/
+dist/
+web-build/
+
+# native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# metro & logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.pnpm-debug.log*
+
+# system
+.DS_Store
+*.pem
+
+# typescript
+*.tsbuildinfo
+
+# environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
