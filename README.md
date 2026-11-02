@@ -31,17 +31,17 @@
 
 ```bash
 # Using npm
-npx create-expo-app my-app --template <your-github-username>/expo-starter-kit
+npx create-expo-app my-app --template HamzaSalam/expo-starter-kit
 
 # Using bun
-bun create expo-app my-app --template <your-github-username>/expo-starter-kit
+bun create expo-app my-app --template HamzaSalam/expo-starter-kit
 ```
 
 ### Option 2: Clone Directly
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/expo-starter-kit.git my-app
+git clone https://github.com/HamzaSalam/expo-starter-kit.git my-app
 cd my-app
 
 # Install dependencies
